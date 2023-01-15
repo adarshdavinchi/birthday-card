@@ -8,8 +8,8 @@
     background-color: palegreen;
   }
   .card {
-    width: 59vw;
-    height: 69vh;
+    width: 640px;
+    height: 400px;
     position: absolute;
     margin: auto;
     left: 0;
